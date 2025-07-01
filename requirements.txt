@@ -1,0 +1,10 @@
+opencv-python
+deepface
+pygame
+tk
+pyttsx3
+numpy
+tensorflow
+keras
+matplotlib
+Pillow
